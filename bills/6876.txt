@@ -1,0 +1,13 @@
+		Bill Details
+
+Bill Number:6876
+Customer Name:
+Phone_Number:
+================================
+Products		QTY		Price
+ Wheat		8		80
+ Medical Tax			LE. 0.0
+ Grocery Tax			LE. 400.0
+ Cold Drinks Tax			LE. 0.0
+ Total Bil:			 Rs.480.0
+--------------------------------

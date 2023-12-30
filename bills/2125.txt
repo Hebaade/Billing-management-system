@@ -1,0 +1,12 @@
+		Bill Details
+
+Bill Number:2125
+Customer Name:
+Phone_Number:
+================================
+Products		QTY		Price
+ Medical Tax			Rs. 0.0
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.0.0
+--------------------------------

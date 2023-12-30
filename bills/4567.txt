@@ -1,0 +1,14 @@
+		Bill Details
+
+Bill Number:4567
+Customer Name:h;df
+Phone_Number:621+91111
+================================
+Products		QTY		Price
+ Sanitizer		1		0
+ Flour		8		0
+ Medical Tax			
+ Grocery Tax			
+ Cold Drinks Tax			
+ Total Bil:			 Rs.480.0
+--------------------------------

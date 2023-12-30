@@ -1,0 +1,13 @@
+		Bill Details
+
+Bill Number:3751
+Customer Name:heba
+Phone_Number:5191
+================================
+Products		QTY		Price
+ Sanitizer		4		8
+ Medical Tax			LE. 0.4
+ Grocery Tax			LE. 0.0
+ Cold Drinks Tax			LE. 0.0
+ Total Bil:			 Rs.8.4
+--------------------------------

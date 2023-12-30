@@ -1,0 +1,15 @@
+		Bill Details
+
+Bill Number:7408
+Customer Name:heba
+Phone_Number:01016598236
+================================
+Products		QTY		Price
+ Sanitizer		5		10
+ Wheat		9		90
+ Fanta		0		30
+ Medical Tax			LE. 0.5
+ Grocery Tax			LE. 450.0
+ Cold Drinks Tax			LE. 3.0
+ Total Bil:			 Rs.583.5
+--------------------------------
